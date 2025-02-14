@@ -113,10 +113,4 @@ x-tvg-url="https://github.com/tenorioabs/thestreamremainsthesame/raw/main/reduce
 
 ---
 
-## 👨‍💻 Autor
-
-👤 **José Tenório Abs Junior**  
-📧 [Seu Email]  
-🏛 **IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados**  
-
 🚀 **Agora você pode gerar e organizar listas IPTV automaticamente!** Qualquer dúvida, me avise! 😊
